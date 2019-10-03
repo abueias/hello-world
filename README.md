@@ -1,3 +1,5 @@
 # hello-world
 speaker diarization
-no way
+we are on the way to success using
+https://guides.github.com/activities/hello-world/
+keep going ...
